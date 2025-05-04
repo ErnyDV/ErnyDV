@@ -1,5 +1,5 @@
 # 👋 Hi, I'm ErnyDV
-Full-Stack Developer & Graphic Designer who started coding with C# while exploring game development, strengthened CS fundamentals through Harvard's CS50, and found my passion in web development through The Odin Project.
+Full-Stack Developer & Graphic Designer with **9 years** of design experience. My coding journey started with C# while exploring game development, followed by strengthening CS fundamentals through Harvard's CS50, and my favorite by far is web development which I picked up through The Odin Project.
 
 ## 🛠️ Skills
 
