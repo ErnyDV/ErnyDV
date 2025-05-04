@@ -16,7 +16,6 @@
 
 ## 🎯 Currently Learning
 * **Tooling:** npm, Webpack
-* **Scripting:** Lua (for game tools & automation)
 
 ## 🌱 Next Up
 * Node.js
