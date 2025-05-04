@@ -12,7 +12,11 @@
 * HTML5, CSS3
 * JavaScript (ES6+)
 * Git & GitHub
-* Lua
+
+### 🚓 FiveM Development
+* Lua – scripting game logic and server/client interactions
+* UI Development – using JavaScript to create dynamic, interactive interfaces
+* SQL – managing player data, inventories, and permissions with structured queries
 
 ## 🎯 Currently Learning
 * **Tooling:** npm, Webpack
