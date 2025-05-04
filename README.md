@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m ErnyDV
 
-<!--
-**ErnyDV/ErnyDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Full‑Stack Developer & Graphic Designer**
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 Graphic Design
+* 9 years of experience with Adobe Photoshop
+* Currently learning Figma for UI/web design
+
+### 💻 Frontend Development
+* HTML5, CSS3
+* JavaScript (ES6+)
+* Git & GitHub
+* Lua
+
+## 🎯 Currently Learning
+* **Tooling:** npm, Webpack
+* **Scripting:** Lua (for game tools & automation)
+
+## 🌱 Next Up
+* Node.js
+* React
