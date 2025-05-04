@@ -1,17 +1,23 @@
 # 👋 Hi, I’m ErnyDV
+I started coding 4 years ago with C# for game development, then took Harvard’s CS50 to learn C and core computer science. After some Python in college,
+I found my passion in full-stack web development through The Odin Project. Lately, I've been taking coding more seriously
+and occasionally build FiveM scripts for fun.
+
 
 ### **Full‑Stack Developer & Graphic Designer**
 
 ## 🛠️ Skills
 
-### 🎨 Graphic Design
-* 9 years of experience with Adobe Photoshop
-* Currently learning Figma for UI/web design
+### 🎨 Graphic Design (9 years of experience)
+* Adobe Photoshop
+* Figma (1 year of experience)
 
-### 💻 Frontend Development
+### 💻 Software Development (2 years of experience)
 * HTML5, CSS3
 * JavaScript (ES6+)
 * Git & GitHub
+* C (6 months of experience)
+* Python (3 months of experience)
 
 ### 🚓 FiveM Development
 * Lua – creating custom scripts, and integrating with NUI interfaces
