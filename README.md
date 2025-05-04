@@ -14,9 +14,9 @@
 * Git & GitHub
 
 ### 🚓 FiveM Development
-* Lua – scripting game logic and server/client interactions
-* UI Development – using JavaScript to create dynamic, interactive interfaces
-* SQL – managing player data, inventories, and permissions with structured queries
+* Lua – creating custom scripts, and integrating with NUI interfaces
+* UI Development – building responsive, in-game interfaces with JavaScript using FiveM's built-in NUI system (powered by embedded Chromium)
+* SQL – integrating scripts with relational databases for persistent data handling
 
 ## 🎯 Currently Learning
 * **Tooling:** npm, Webpack
