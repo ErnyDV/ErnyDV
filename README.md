@@ -19,6 +19,12 @@ and occasionally build FiveM scripts for fun.
 * C (6 months of experience)
 * Python (3 months of experience)
 
+### 🖥️ System Environments & OS Proficiency
+* Linux – hands-on experience with Red Hat-based distributions and Ubuntu; occasionally used for development
+* WSL – used regularly for development within Windows environments
+* Command Line Interface (CLI) – proficient in terminal usage for development and system tasks
+
+
 ### 🚓 FiveM Development (8 months of experience)
 * Lua – creating custom scripts, and integrating with NUI interfaces
 * UI Development – building responsive, in-game interfaces with JavaScript using FiveM's built-in NUI system (powered by embedded Chromium)
